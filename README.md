@@ -6,7 +6,9 @@ Este script utiliza **Playwright** para extraer información pública de empresa
 
 ## 📺 Demostración de la Herramienta
 
-Visual Studio Code - extractor.py - Api_Auditoria - Visual Studio Code - 12 October 2026(3).mp4
+
+https://github.com/user-attachments/assets/196d344b-94c8-43d7-94f4-2d08d99a1cb5
+
 
 ## 🚀 Características
 * **Extracción OSINT:** Busca y recopila datos directamente desde resultados orgánicos de búsqueda (DuckDuckGo HTML puro).
